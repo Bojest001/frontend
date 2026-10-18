@@ -14,22 +14,22 @@ export function LandingFooter(): JSX.Element {
             </h4>
             <ul className="space-y-2">
               <li>
-                <a href="#" className="text-sm" style={{ color: '#64748b' }}>
+                <a href="#" className="text-sm" style={{ color: '#475569' }}>
                   For Creators
                 </a>
               </li>
               <li>
-                <a href="#" className="text-sm" style={{ color: '#64748b' }}>
+                <a href="#" className="text-sm" style={{ color: '#475569' }}>
                   For Supporters
                 </a>
               </li>
               <li>
-                <a href="#" className="text-sm" style={{ color: '#64748b' }}>
+                <a href="#" className="text-sm" style={{ color: '#475569' }}>
                   Pricing
                 </a>
               </li>
               <li>
-                <a href="#" className="text-sm" style={{ color: '#64748b' }}>
+                <a href="#" className="text-sm" style={{ color: '#475569' }}>
                   Features
                 </a>
               </li>
@@ -41,22 +41,22 @@ export function LandingFooter(): JSX.Element {
             </h4>
             <ul className="space-y-2">
               <li>
-                <a href="#" className="text-sm" style={{ color: '#64748b' }}>
+                <a href="#" className="text-sm" style={{ color: '#475569' }}>
                   API Docs
                 </a>
               </li>
               <li>
-                <a href="#" className="text-sm" style={{ color: '#64748b' }}>
+                <a href="#" className="text-sm" style={{ color: '#475569' }}>
                   SDKs
                 </a>
               </li>
               <li>
-                <a href="#" className="text-sm" style={{ color: '#64748b' }}>
+                <a href="#" className="text-sm" style={{ color: '#475569' }}>
                   GitHub
                 </a>
               </li>
               <li>
-                <a href="#" className="text-sm" style={{ color: '#64748b' }}>
+                <a href="#" className="text-sm" style={{ color: '#475569' }}>
                   Status
                 </a>
               </li>
@@ -68,22 +68,22 @@ export function LandingFooter(): JSX.Element {
             </h4>
             <ul className="space-y-2">
               <li>
-                <a href="#" className="text-sm" style={{ color: '#64748b' }}>
+                <a href="#" className="text-sm" style={{ color: '#475569' }}>
                   About
                 </a>
               </li>
               <li>
-                <a href="#" className="text-sm" style={{ color: '#64748b' }}>
+                <a href="#" className="text-sm" style={{ color: '#475569' }}>
                   Blog
                 </a>
               </li>
               <li>
-                <a href="#" className="text-sm" style={{ color: '#64748b' }}>
+                <a href="#" className="text-sm" style={{ color: '#475569' }}>
                   Press
                 </a>
               </li>
               <li>
-                <a href="#" className="text-sm" style={{ color: '#64748b' }}>
+                <a href="#" className="text-sm" style={{ color: '#475569' }}>
                   Careers
                 </a>
               </li>
@@ -95,17 +95,17 @@ export function LandingFooter(): JSX.Element {
             </h4>
             <ul className="space-y-2">
               <li>
-                <a href="#" className="text-sm" style={{ color: '#64748b' }}>
+                <a href="#" className="text-sm" style={{ color: '#475569' }}>
                   Terms
                 </a>
               </li>
               <li>
-                <a href="#" className="text-sm" style={{ color: '#64748b' }}>
+                <a href="#" className="text-sm" style={{ color: '#475569' }}>
                   Privacy
                 </a>
               </li>
               <li>
-                <a href="#" className="text-sm" style={{ color: '#64748b' }}>
+                <a href="#" className="text-sm" style={{ color: '#475569' }}>
                   Cookies
                 </a>
               </li>
@@ -117,17 +117,17 @@ export function LandingFooter(): JSX.Element {
             </h4>
             <ul className="space-y-2">
               <li>
-                <a href="#" className="text-sm" style={{ color: '#64748b' }}>
+                <a href="#" className="text-sm" style={{ color: '#475569' }}>
                   Twitter
                 </a>
               </li>
               <li>
-                <a href="#" className="text-sm" style={{ color: '#64748b' }}>
+                <a href="#" className="text-sm" style={{ color: '#475569' }}>
                   Instagram
                 </a>
               </li>
               <li>
-                <a href="#" className="text-sm" style={{ color: '#64748b' }}>
+                <a href="#" className="text-sm" style={{ color: '#475569' }}>
                   Discord
                 </a>
               </li>
@@ -142,13 +142,13 @@ export function LandingFooter(): JSX.Element {
             © 2024 Dorisio. All rights reserved.
           </p>
           <div className="flex items-center gap-8">
-            <a href="#" className="text-sm" style={{ color: '#64748b' }}>
+            <a href="#" className="text-sm" style={{ color: '#475569' }}>
               Status
             </a>
-            <a href="#" className="text-sm" style={{ color: '#64748b' }}>
+            <a href="#" className="text-sm" style={{ color: '#475569' }}>
               Privacy
             </a>
-            <a href="#" className="text-sm" style={{ color: '#64748b' }}>
+            <a href="#" className="text-sm" style={{ color: '#475569' }}>
               Terms
             </a>
           </div>
